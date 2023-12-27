@@ -1,0 +1,38 @@
+[
+  {
+    "email": "mirajsankdecha@gmail.com",
+    "password": "123",
+    "username": "mirajsankdecha",
+    "firstName": "Miraj",
+    "lastName": "Sankdecha",
+    "age": 20,
+    "gender": "Male",
+    "address": "Mavdi Chokdi",
+    "city": "Rajkot",
+    "country": "India"
+  },
+  {
+    "email": "pavankorat@gmail.com",
+    "password": "123456",
+    "username": "pavankorat",
+    "firstName": "pavan",
+    "lastName": "korat",
+    "age": 19,
+    "gender": "Male",
+    "address": "KKV Hall",
+    "city": "Rajkot",
+    "country": "India"
+  },
+  {
+    "email": "aayushpatel@gmail.com",
+    "password": "123",
+    "username": "aayushpatel",
+    "firstName": "aayush",
+    "lastName": "patel",
+    "age": 19,
+    "gender": "Male",
+    "address": "Madhapar Chokdi",
+    "city": "Kuvadva",
+    "country": "India"
+  }
+]

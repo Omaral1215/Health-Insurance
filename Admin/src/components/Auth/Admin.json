@@ -1,0 +1,30 @@
+[
+  {
+    "firstname": "Miraj",
+    "lastname": "Sankdecha",
+    "username": "mirajsankdecha",
+    "password": "123",
+    "email": "mirajsankdecha@example.com",
+    "age": 20,
+    "gender": "Male",
+    "DOB": "2003-07-31",
+    "phonenumber": "+918511411930",
+    "address": "Rajkot, Gujarat, India",
+    "role": "admin",
+    "active": true
+  },
+  {
+    "firstname": "Prakash",
+    "lastname": "Gujarati",
+    "username": "prakashgujarati",
+    "password": "123",
+    "email": "prakashgujarati@example.com",
+    "age": 35,
+    "gender": "Male",
+    "DOB": "1992-05-25",
+    "phonenumber": "+91 9328373131",
+    "address": "Rajkot, Gujarat, India",
+    "role": "admin",
+    "active": true
+  }
+]

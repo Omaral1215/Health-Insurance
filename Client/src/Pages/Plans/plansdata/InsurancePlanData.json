@@ -1,0 +1,2202 @@
+[
+  {
+    "name": "Caresure Comprehensive Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Senior Citizens Red Carpet Health Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Family Health Optima Insurance Plan",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Super Surplus Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medi Classic Insurance Policy (Individual)",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Health Gain Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Micro Rural and Farmers Care",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Hospital Cash Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Out Patient Care Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Young Caresure Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arogya Sanjeevani Policy, Caresure Health and Allied Insurance Co Ltd",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Health Assure Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diabetes Safe Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Cardiac Care Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Cardiac Care Insurance Policy-Platinum",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Cancer Care Platinum Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Critical Illness Multipay Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Extra Protect - Add on Cover",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Special Care",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caresure Women Care Insurance Policy",
+    "categories": [
+      {
+        "planCategory": "Basic Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1000000,
+            "premiumWithoutTax": 8000,
+            "premiumWithTax": 9500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 12000,
+            "premiumWithTax": 14000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2000000,
+            "premiumWithoutTax": 15000,
+            "premiumWithTax": 17000
+          },
+          {
+            "year": 7,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          }
+        ]
+      },
+      {
+        "planCategory": "Advanced Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1200000,
+            "premiumWithoutTax": 9000,
+            "premiumWithTax": 10500
+          },
+          {
+            "year": 3,
+            "sumInsured": 1800000,
+            "premiumWithoutTax": 14000,
+            "premiumWithTax": 16000
+          },
+          {
+            "year": 5,
+            "sumInsured": 2500000,
+            "premiumWithoutTax": 18000,
+            "premiumWithTax": 20000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 21000,
+            "premiumWithTax": 23000
+          },
+          {
+            "year": 10,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          }
+        ]
+      },
+      {
+        "planCategory": "Premium Plan",
+        "premiums": [
+          {
+            "year": 1,
+            "sumInsured": 1500000,
+            "premiumWithoutTax": 11000,
+            "premiumWithTax": 12500
+          },
+          {
+            "year": 3,
+            "sumInsured": 2200000,
+            "premiumWithoutTax": 16000,
+            "premiumWithTax": 18000
+          },
+          {
+            "year": 5,
+            "sumInsured": 3000000,
+            "premiumWithoutTax": 22000,
+            "premiumWithTax": 24000
+          },
+          {
+            "year": 7,
+            "sumInsured": 3500000,
+            "premiumWithoutTax": 25000,
+            "premiumWithTax": 27000
+          },
+          {
+            "year": 10,
+            "sumInsured": 4000000,
+            "premiumWithoutTax": 30000,
+            "premiumWithTax": 32000
+          }
+        ]
+      }
+    ]
+  }
+]

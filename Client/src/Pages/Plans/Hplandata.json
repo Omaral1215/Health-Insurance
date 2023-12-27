@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Caresure Women Care Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/happy-family-sitting-couch-living-room_23-2148456279.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=sph",
+    "content1": "Unique Cover: A specially designed policy that provides multi-fold benefits for women",
+    "content2": "Automatic Restoration: 100% of the Sum Insured is restored once in a policy period",
+    "content3": "Delivery Expenses: Normal & C-section delivery expenses are covered (including pre and post-natal)"
+  },
+  {
+    "id": 2,
+    "title": "Caresure Comprehensive Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/young-family-with-their-sons-home-having-fun_1303-20999.jpg?size=626&ext=jpg&ga=GA1.2.464284625.1688563657&semt=ais",
+    "content1": "Automatic Restoration: Get 100% of the basic Sum Insured restored once in a policy year",
+    "content2": "Buy-back PED: Optional cover to reduce the waiting period in respect of Pre-Existing Diseases",
+    "content3": "Mid-term inclusion: Newly married/wedded spouse and new born baby are covered on payment of additional premium"
+  },
+  {
+    "id": 3,
+    "title": "Senior Citizens Red Carpet Health Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/smiley-older-couple-jogging-outdoors_23-2148729868.jpg?size=626&ext=jpg&ga=GA1.2.464284625.1688563657&semt=ais",
+    "content1": "Elderly Cover: Designed for the age group of 60-75 years with lifelong renewals",
+    "content2": "Outpatient Cover: Get cover for medical consultations as an outpatient at Network Hospitals",
+    "content3": "Pre-insurance Screening: Pre-insurance screening is not required to avail this policy"
+  },
+  {
+    "id": 4,
+    "title": "Family Health Optima Insurance Plan",
+    "img": "https://img.freepik.com/free-photo/full-shot-woman-holding-kid_23-2148904790.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Automatic Restoration: 100% of the Sum insured is restored thrice in a policy year",
+    "content2": "Additional Sum Insured for Road Traffic Accident: The Sum insured is increased for Road Traffic Accident on exhaustion of the limit of coverage",
+    "content3": "Recharge Benefit: Get additional indemnity once in a policy year on exhaustion of the limit of coverage"
+  },
+  {
+    "id": 5,
+    "title": "Caresure Health Premier Insurance Policy",
+    "img": "https://img.freepik.com/premium-photo/young-man-love-care-elder-eating-lunch-meal-safe-stay-home-happy-smile-family_43300-2215.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Special Policy: Designed for people aged 50 years and above without any maximum age limit",
+    "content2": "Pre-insurance Screening: Pre-Insurance screening is not required to avail this policy",
+    "content3": "Health Check-Up Discount: 10% premium discount is available if listed health check-up reports are submitted at the inception of the policy and subject to the findings in the submitted report"
+  },
+  {
+    "id": 6,
+    "title": "Super Surplus Insurance Policy",
+    "img": "https://img.freepik.com/premium-photo/portrait-indian-asian-young-family-four-sitting-white-flour-against-white-background-looking-camera_466689-8047.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Top-up Plan: Get enhanced health coverage at an affordable premium",
+    "content2": "Recharge Benefit: Get additional indemnity on exhaustion of the Sum Insured at no additional cost",
+    "content3": "Long-Term Discount: If the policy is opted for a term of 2 years, then 5% premium discount is available"
+  },
+  {
+    "id": 7,
+    "title": "Medi Classic Insurance Policy (Individual)",
+    "img": "https://img.freepik.com/free-photo/closeup-happy-pretty-indian-business-woman_1262-2258.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Restoration Benefit: 200% of the basic Sum Insured is restored once in a policy period",
+    "content2": "Road Traffic Accident: The Sum insured is increased for Road Traffic Accident on its exhaustion",
+    "content3": "Long-Term Discount: if the policy is opted for a term of 2 or 3 years, then a discount on the premium is available"
+  },
+  {
+    "id": 8,
+    "title": "Caresure Health Gain Insurance Policy",
+    "img": "https://img.freepik.com/premium-photo/portrait-happy-indian-asian-young-family-while-sitting-sofa-lying-floor-sitting-against-wall_466689-7294.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=sph",
+    "content1": "Wide Cover: Provides broad cover for both in-patient hospitalisation and outpatient expenses",
+    "content2": "Modern Treatment: Expenses are covered either as in-patient hospitalisation or day care procedures",
+    "content3": "Outpatient benefit: Outpatient expenses incurred at any Networked Facility are covered"
+  },
+  {
+    "id": 9,
+    "title": "Caresure Micro Rural and Farmers Care",
+    "img": "https://img.freepik.com/premium-photo/indian-farmer-cotton-field_54391-2206.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=sph",
+    "content1": "Rural Cover: Exclusively designed for rural population",
+    "content2": "Pre-insurance Screening: Pre-insurance screening is not required to avail this policy",
+    "content3": "Less Waiting Period: PED & Specific Diseases are covered just after 6 months"
+  },
+  {
+    "id": 10,
+    "title": "Caresure Hospital Cash Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/cheerful-young-bearded-man-with-blank-business-card_171337-17886.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Lump-sum Benefit for Hospitalisation: Designed to provide daily cash benefit for incidental expenses on hospitalisation",
+    "content2": "ICU Hospital Cash: Get up to 200% of the hospital cash amount (per day) in case of ICU hospitalisation",
+    "content3": "Accident Hospital Cash: Get up to 150% of the hospital cash amount every 24 hours of hospitalisation in case of accidents"
+  },
+  {
+    "id": 10,
+    "title": "Caresure Out Patient Care Insurance Policy",
+    "img": "https://img.freepik.com/premium-photo/patient-wheelchair-holding-hand-doctor_13339-96156.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Outpatient Cover: Outpatient consultation expenses are covered at Network Hospitals",
+    "content2": "Diagnostic & Pharmacy: Expenses are covered at Network Hospitals",
+    "content3": "Dental & Ophthalmic: Expenses are covered at Network Hospitals"
+  },
+  {
+    "id": 11,
+    "title": "Young Caresure Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/smiling-confident-businesswoman-posing-with-arms-folded_1262-20950.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Automatic Restoration: 100% of the Sum insured is restored once in a policy period",
+    "content2": "Mid-term Inclusion: Entitles you to add newly married or wedded spouse, legally adopted child and new born baby in the middle of the policy year",
+    "content3": "Loyalty Discount: 10% discount for opting the policy before 36 years and continuously renewing it beyond 40 years of age"
+  },
+  {
+    "id": 12,
+    "title": "Arogya Sanjeevani Policy, Caresure Health and Allied Insurance Co Ltd.",
+    "img": "https://img.freepik.com/free-photo/smiley-covid-recovery-center-female-doctor-holding-elder-patient-s-hands_23-2148847831.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Rural Discount: 20% discount on premium for the rural population",
+    "content2": "Modern Treatments: Get cover for Modern treatments up to 50% of the Sum insured",
+    "content3": "AYUSH Cover: Covers hospitalisation expenses towards AYUSH treatments"
+  },
+  {
+    "id": 13,
+    "title": "Caresure Health Assure Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/medium-shot-happy-family-indoors_23-2148880377.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Family Size: Covers 6 Adults and 3 Children including, seif, spouse, parents and parents-in-law",
+    "content2": "Automatic Restoration: Sum Insured will be restored unlimited number of times and maximum up to 100% each time",
+    "content3": "Long-Term Discount: if the policy is opted for a term of 2 or 3 years, then a discount on the premium is available"
+  },
+  {
+    "id": 14,
+    "title": "Diabetes Safe Insurance Policy",
+    "img": "https://img.freepik.com/premium-photo/doctor-examining-senior-patient-blood-sugar_107420-67033.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Diabetic Cover: Designed to cover people diagnosed with both type-1 and type 2 diabetes",
+    "content2": "Family Cover: Can also avail this policy on a floater basis (self & spouse) if either of them is diabetic",
+    "content3": "Automatic Restoration: Get 100% of the Sum insured restored once in a policy year for Individual plan"
+  },
+  {
+    "id": 15,
+    "title": "Caresure Cardiac Care Insurance Policy",
+    "img": "https://img.freepik.com/premium-photo/just-try-relax-shot-confident-mature-male-doctor-running-tests-patient-inside-examination-room-during-day_590464-24249.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Cardiac Cover: Covers person diagnosed with Cardiac ailments aged between 10 and 65 years",
+    "content2": "Non-Cardiac Cover: Also covers Non-Cardiac ailments and accidents",
+    "content3": "Pre-insurance Screening: Pre-insurance screening is not required to avail this policy"
+  },
+  {
+    "id": 16,
+    "title": "Caresure Cardiac Care Insurance Policy-Platinum",
+    "img": "https://img.freepik.com/free-photo/doctor-holding-heart-white-coat-with-stethoscope-looking-positive_176474-8495.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Exclusive Cover: Specially designed policy for people diagnosed with Cardiac ailment or disorder",
+    "content2": "Pre-insurance Screening: Pre-insurance screening is not required to avail this policy",
+    "content3": "Cardiac Devices: Get up to 50% of the Sum Insured for Cardiac devices"
+  },
+  {
+    "id": 17,
+    "title": "Caresure Cancer Care Platinum Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/health-assistant-taking-care-female-patient_23-2148981271.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Exclusive Cover: Specially designed policy for people diagnosed with Cancer",
+    "content2": "Wide Cover: In addition to Cancer, it also covers regular hospitalisation expenses unrelated to Cancer",
+    "content3": "Lump Sum Cover: As an optional cover, a lump sum is provided for recurrence of Cancer, metastasis and/or second malignancy unrelated to first Cancer"
+  },
+  {
+    "id": 18,
+    "title": "Caresure Critical Illness Multipay Insurance Policy",
+    "img": "https://img.freepik.com/free-photo/portrait-male-doctor-patient_1170-2160.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Unique Cover: The policy covers 37 major critical illnesses",
+    "content2": "Caresure Wellness Program: Avail premium discounts for maintaining a healthy lifestyle",
+    "content3": "Pre-insurance Screening: Pre-insurance screening is not required until 50 years of age to avail this policy"
+  },
+  {
+    "id": 19,
+    "title": "Caresure Extra Protect - Add on Cover",
+    "img": "https://img.freepik.com/premium-photo/rainy-day-adventures-cropped-portrait-family-three-standing-outside-rain_590464-21027.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Add on Cover: Get the limits of your base policy enhanced with an affordable premium",
+    "content2": "Modern Treatment: Expenses are covered up to the Sum insured of the Base policy if there is an admissible claim under the base policy",
+    "content3": "Claim Guard: Get cover for non-medical items if there is an admissible claim under your base policy"
+  },
+  {
+    "id": 20,
+    "title": "Caresure Special Care",
+    "img": "https://img.freepik.com/free-photo/shot-cute-baby-girl-looking-camera_329181-19580.jpg?size=626&ext=jpg&ga=GA1.1.464284625.1688563657&semt=ais",
+    "content1": "Special Cover: A unique policy designed for people diagnosed with Autism Spectrum Disorder",
+    "content2": "Medical Screening: Pre-insurance screening is not required to avail this policy",
+    "content3": "Modern Treatment: Expenses for Modern Treatments are covered up to specified limits"
+  }
+]
